@@ -79,6 +79,12 @@ Each user can only access their own tasks.
 
 ---
 
+### View Task
+
+![Task](https://github.com/user-attachments/assets/1de9e537-639c-459e-b034-cdf91dfbe729)
+
+---
+
 ### Edit Profile
 
 ![Profile](https://github.com/user-attachments/assets/d0b4f527-831f-4771-aa8a-0a89341b1672)
