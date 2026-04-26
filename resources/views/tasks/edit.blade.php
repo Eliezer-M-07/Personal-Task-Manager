@@ -107,7 +107,7 @@
 
                 <button type="submit"
                         class="w-full bg-linear-to-r from-blue-600 to-indigo-600 text-white py-3 rounded-lg font-semibold hover:opacity-90 transition">
-                    Editar Task
+                    Editar Tarefa
                 </button>
 
             </form>
